@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Amazon EC2-569A31?style=for-the-badge&logo=Amazon EC2&logoColor=FFFFFF"/>
 </div>
-<br>
 
 ---
 ### STM(Student Test Manager) 시험지 제작 툴
@@ -55,8 +54,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/CKEditor-0287D0?style=for-the-badge&logo=CKEditor&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Amazon EC2-569A31?style=for-the-badge&logo=Amazon EC2&logoColor=FFFFFF"/>
 </div>
 <br>
 
@@ -97,9 +94,8 @@
     <img src="https://img.shields.io/badge/Twitch Api-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF"/>
   </a>
 </div>  
+<br>
 
-
-<br><br><br>
 ---
 ## Timeline
 | 기간 | 이력 |
