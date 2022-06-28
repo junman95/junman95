@@ -88,10 +88,14 @@
 
 <div align ="left">
   <br>
-  :blue_book: Skills I used <br>
+  :blue_book: Skills I used :blue_book: <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/>
+  <br>
+  :computer: OpenApi I used :computer: <br>
+  <a href="https://dev.twitch.tv/docs/api/">
+    <img src="https://img.shields.io/badge/Twitch Api-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF"/>
+  </a>
 </div>  
 
 
