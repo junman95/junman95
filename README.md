@@ -76,7 +76,7 @@
 <br><br><br>
 
 ---
-### Disney Plus Clone Web-App
+### Twitch Game Analysis
 * **트위치 생방송 뷰어 및 실시간 스트리밍 게임 랭킹 사이트 입니다.(개발중)**
 
 <a href="https://github.com/junman95/TwitchGameAnalysis">
