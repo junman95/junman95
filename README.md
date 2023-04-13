@@ -58,45 +58,6 @@
 <br>
 
 ---
-### Disney Plus Clone Web-App
-* **디즈니 플러스 웹 앱 클론 코딩 입니다.**
-<a href="https://junman95.github.io/disneyplus-clone/">사이트로 이동</a>
-
-<a href="https://github.com/junman95/disneyplus-clone">
-  <img align="left" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/pin?username=junman95&repo=disneyplus-clone&title_color=ffeceb&icon_color=ffeceb&text_color=ffeceb&bg_color=ffa69e"><p></p></img>
-</a>
-
-<div align ="left">
-  <br>
-  :blue_book: Skills I used :blue_book: <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/>
-</div>  
-<br><br><br>
-
----
-### Twitch Game Analysis
-* **트위치 생방송 뷰어 및 실시간 스트리밍 게임 랭킹 사이트 입니다.(개발중)**
-
-<a href="https://github.com/junman95/TwitchGameAnalysis">
-  <img align="left" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/pin?username=junman95&repo=TwitchGameAnalysis&title_color=ffeceb&icon_color=ffeceb&text_color=ffeceb&bg_color=ffa69e"><p></p></img>
-</a>
-
-<div align ="left">
-  <br>
-  :blue_book: Skills I used :blue_book: <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/>
-  <br>
-  :computer: OpenApi I used :computer: <br>
-  <a href="https://dev.twitch.tv/docs/api/">
-    <img src="https://img.shields.io/badge/Twitch Api-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF"/>
-  </a>
-</div>  
-<br>
-
----
 ## Timeline
 | 기간 | 이력 |
 |------|-----|
